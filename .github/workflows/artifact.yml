@@ -31,4 +31,3 @@ jobs:
 
     - name: show contents
       run : cat ./artifacts/hello.txt
-
